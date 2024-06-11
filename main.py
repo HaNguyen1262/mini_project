@@ -1,0 +1,7 @@
+inport sys
+
+def add(a, b):
+    return a+b
+
+if __name__ == '__main__':
+    a, b = sys.argv[1], sys.argv[2] # python execute paraml
